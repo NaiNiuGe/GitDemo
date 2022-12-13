@@ -15,6 +15,6 @@ public class GItTest {
         System.out.println("master");
         System.out.println("1");
         System.out.println("major");
-        System.out.println("2");
+        System.out.println("3");
     }
 }
