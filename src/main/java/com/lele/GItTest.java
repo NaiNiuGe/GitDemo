@@ -13,5 +13,6 @@ public class GItTest {
         System.out.println("helloworld3");
         System.out.println("helloworld4");
         System.out.println("major");
+        System.out.println("2");
     }
 }
